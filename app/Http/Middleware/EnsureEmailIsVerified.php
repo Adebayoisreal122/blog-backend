@@ -9,5 +9,5 @@ use Illuminate\Auth\Middleware\EnsureEmailIsVerified as Middleware;
 
 class EnsureEmailIsVerified extends Middleware
 {
- 
+ // i will add when the features arrives
 }
